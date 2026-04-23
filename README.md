@@ -2,7 +2,6 @@
 
 A Java Console Based Mini Project developed using Core Java concepts to simulate a Product Data Management (PDM) system similar to enterprise applications.
 
----<img width="358" height="228" alt="image" src="https://github.com/user-attachments/assets/5b6eee2d-5649-40d1-b9e0-c0ff15e42213" />
 
 
 ## 📌 Project Overview
