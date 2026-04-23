@@ -1,11 +1,10 @@
-````md
 # Dhruv Product Data Management System
 
 A Java console-based mini project developed using Core Java concepts to simulate a Product Data Management (PDM) system similar to enterprise applications.
 
 ---
 
-##Project Overview
+## Project Overview
 
 This application allows users to perform the following operations:
 
@@ -81,9 +80,6 @@ model
 service
 repository
 util
-````
-
----
 
 ## How to Run the Project
 
