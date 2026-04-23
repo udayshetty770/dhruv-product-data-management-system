@@ -190,6 +190,6 @@ This project demonstrates understanding of:
 
 ## Author
 
-**Udaya Shetty**
+**Uday Shetty**
 
 GitHub Profile: [https://github.com/udayshetty770](https://github.com/udayshetty770)
