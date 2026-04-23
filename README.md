@@ -8,25 +8,25 @@ A Java console-based mini project developed using Core Java concepts to simulate
 
 This application allows users to perform the following operations:
 
-- Secure login authentication
-- Create master data records
-- Search existing records
-- Delete records
-- Auto number generation
-- Console-based menu navigation
+* Secure login authentication
+* Create master data records
+* Search existing records
+* Delete records
+* Auto number generation
+* Console-based menu navigation
 
 ---
 
 ## Technologies Used
 
-- Java
-- Core Java
-- Object-Oriented Programming (OOP)
-- Collections Framework (ArrayList)
-- Exception Handling
-- Eclipse IDE
-- Git
-- GitHub
+* Java
+* Core Java
+* Object-Oriented Programming (OOP)
+* Collections Framework (ArrayList)
+* Exception Handling
+* Eclipse IDE
+* Git
+* GitHub
 
 ---
 
@@ -34,28 +34,28 @@ This application allows users to perform the following operations:
 
 ### Login Module
 
-- Username and password validation
-- Multiple login attempts
-- Invalid login handling
+* Username and password validation
+* Multiple login attempts
+* Invalid login handling
 
 ### Create Data Module
 
 Users can create the following records:
 
-- Part
-- Document
-- Manufacturer
-- Manufacturer Part
+* Part
+* Document
+* Manufacturer
+* Manufacturer Part
 
 ### Search Data Module
 
-- View all created records
-- Display records category-wise
+* View all created records
+* Display records category-wise
 
 ### Delete Data Module
 
-- Delete records using Number / ID
-- Handle record not found scenarios
+* Delete records using Number / ID
+* Handle record not found scenarios
 
 ---
 
@@ -63,10 +63,10 @@ Users can create the following records:
 
 The system automatically generates unique numbers for each module:
 
-- Part Number: `100-262-100`
-- Document Number: `DOC-200`
-- Manufacturer ID: `MFR-300`
-- Manufacturer Part Number: `MFP-400`
+* Part Number: `100-262-100`
+* Document Number: `DOC-200`
+* Manufacturer ID: `MFR-300`
+* Manufacturer Part Number: `MFP-400`
 
 ---
 
@@ -80,6 +80,9 @@ model
 service
 repository
 util
+```
+
+---
 
 ## How to Run the Project
 
@@ -190,6 +193,3 @@ This project demonstrates understanding of:
 **Udaya Shetty**
 
 GitHub Profile: [https://github.com/udayshetty770](https://github.com/udayshetty770)
-
-```
-```
