@@ -193,3 +193,5 @@ This project demonstrates understanding of:
 **Uday Shetty**
 
 GitHub Profile: [https://github.com/udayshetty770](https://github.com/udayshetty770)
+
+![Repository Views](https://komarev.com/ghpvc/?username=udayshetty770&repo=dhruv-product-data-management-system&label=Repo%20views&color=0e75b6&style=flat)
